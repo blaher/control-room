@@ -1,0 +1,22 @@
+{
+  "name": "control-room-api",
+  "version": "1.0.0",
+  "description": "The API for lifes control room.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaher/control-room.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Benjamin J. Young",
+  "license": "LGPL-2.1",
+  "bugs": {
+    "url": "https://github.com/blaher/control-room/issues"
+  },
+  "homepage": "https://github.com/blaher/control-room#readme"
+}
