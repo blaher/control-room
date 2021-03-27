@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/blaher/control-room/issues"
   },
-  "homepage": "https://github.com/blaher/control-room#readme"
+  "homepage": "https://github.com/blaher/control-room#readme",
+  "dependencies": {
+    "typescript": "^4.2.3"
+  }
 }
